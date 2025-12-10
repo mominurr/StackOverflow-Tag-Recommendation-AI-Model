@@ -45,7 +45,6 @@ This project tackles the multi-label classification problem of predicting releva
 StackOverflow-Tag-Recommendation-AI-Model/
 │
 ├── data/                          # Dataset files
-│   ├── raw.csv                    # Original dataset
 │   ├── train.csv                  # Training set (~85%)
 │   ├── val.csv                    # Validation set (~10%)
 │   └── test.csv                   # Test set (~5%)
@@ -60,8 +59,6 @@ StackOverflow-Tag-Recommendation-AI-Model/
 │
 ├── docs/                          # GitHub Pages website
 │   ├── index.html                 # Main webpage
-│   ├── script.js                  # Frontend JavaScript
-│   └── style.css                  # Styling
 │
 ├── app.py                         # Gradio app for HuggingFace
 ├── utils.py                       # Helper functions
