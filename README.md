@@ -5,7 +5,7 @@ An end-to-end machine learning project that automatically recommends relevant ta
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange)](https://pytorch.org/)
 [![Gradio](https://img.shields.io/badge/Gradio-3.50%2B-yellow)](https://gradio.app/)
-[![Transformers](https://img.shields.io/badge/%F0%9F%A4%97-Transformers-yellow)]
+[![Transformers](https://img.shields.io/badge/%F0%9F%A4%97-Transformers-yellow)](https://huggingface.co/docs/transformers)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 📋 Table of Contents
